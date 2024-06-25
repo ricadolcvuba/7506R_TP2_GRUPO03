@@ -1,5 +1,6 @@
-# Links de los modelos
+# Link de los modelos
 https://drive.google.com/drive/folders/1e6zCXCC5wSPgkm80qX0eDVkO7vgT6isX?usp=drive_link
+
 
 # Links del colab de las notebooks usadas en el TP
 ## Notebook N1: Preprocesamiento.
